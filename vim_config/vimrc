@@ -1,0 +1,48 @@
+set nocompatible
+"filetype plugin on
+" allow backspacing over everything in insert mode
+set backspace=indent,eol,start
+set nobackup		" DON'T keep a backup file
+
+set history=50		" keep 50 lines of command line history
+set ruler			" show the cursor position all the time
+set showcmd			" display incomplete commands
+set incsearch		" do incremental searching
+set tabstop=4
+
+set number				" line numbers
+set cindent
+set autoindent
+set mouse=a				" use mouse in xterm to scroll
+set scrolloff=5 		" 5 lines bevore and after the current line when scrolling
+set ignorecase			" ignore case
+set smartcase			" but don't ignore it, when search string contains uppercase letters
+set hid 				" allow switching buffers, which have unsaved changes
+set shiftwidth=4		" 4 characters for indenting
+set showmatch			" showmatch: Show the matching bracket for the last ')'?
+
+set nowrap				" don't wrap by default
+syn on
+set completeopt=menu,longest,preview
+set confirm
+
+" imap jj			<Esc>
+
+set ai                          " set auto-indenting on for programming
+syntax on                       " turn syntax highlighting on by default
+set clipboard=unnamed           " set clipboard to unnamed to access the system clipboard under windows
+set laststatus=2                " make the last line where the status is two lines deep so you can see status always
+
+set go-=m   "hide menu
+set go-=T   "hide toolbar
+set go-=r   "hide rightside scrollbar
+
+"guifont=Hack:h10:cANSI
+set anti gfn=Hack:h10:cANSI
+
+"remove intro message from gvim
+set shortmess+=I
+
+"colorscheme guardian
+"colorscheme peaksea
+colorscheme molokai
