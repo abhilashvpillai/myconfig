@@ -1,0 +1,33 @@
+Sumatra PDF
+Snap Timer
+Spider Player
+GIMP
+Paint.Net
+IrfanView
+7Zip
+
+CintaNotes
+Notepad++
+SublimeText
+Atom
+Brackets
+
+
+DevC++
+MingW
+Git
+gVim
+UnixUtils
+Console2
+ConEmu
+
+
+Java
+Python
+Php
+Ruby
+Node
+
+MySql
+PostgreSQL
+sQlite
