@@ -1,0 +1,34 @@
+http://silas.com.ng/
+http://silas.com.ng/using-lighttpd-with-xampp-on-windows/
+
+http://www.guidingtech.com/5493/portable-apps-virtualization-cameyo/
+http://www.intowindows.com/how-to-create-portable-version-of-any-software-in-windows/
+http://www.makeuseof.com/tag/create-groups-portable-applications-cameyo-windows/
+http://www.makeuseof.com/tag/pac-easily-create-portable-apps-programming-knowledge-required-windows/
+http://www.howtogeek.com/186132/how-to-create-portable-versions-of-applications-in-windows-8.1-using-cameyo/all/
+
+
+http://imacros.net/
+http://forum.imacros.net/viewforum.php?f=11
+
+http://www.autohotkey.com/
+
+http://ask.metafilter.com/23032/How-do-I-assign-a-hotkey-to-a-Firefox-bookmark
+
+https://pinboard.in/howto/
+
+
+LUA
+	http://luaforge.net/projects/luaforwindows/
+	http://lua-users.org/wiki/BuildingLuaInWindowsForNewbies
+	http://moonscript.org/
+	http://stackoverflow.com/questions/18340421/windows-lua-to-executable
+	http://stackoverflow.com/questions/194520/creating-standalone-lua-executables
+	http://www.lua.org/start.html
+	https://github.com/rjpcomputing/luaforwindows
+	
+CSS
+
+HTML
+
+JAVASCRIPT
