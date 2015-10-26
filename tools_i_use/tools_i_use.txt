@@ -2,48 +2,31 @@ Sumatra PDF
 Snap Timer
 Spider Player
 
-GIMP
-Paint.Net
-IrfanView
+Photoshop	:	Illustrator	:	Fireworks	:	InkScape	:	GIMP		:	Paint.Net	:	IrfanView
 
-7Zip
+7Zip	:	WinRar
 
-CintaNotes
-ResophNotes
-Notepad++
-gVim
-SublimeText
-Atom
-Brackets
+CintaNotes	:	ResophNotes
 
+DreamWeaver	:	Notepad++	:	SublimeText	:	Atom	:	Brackets	: 	gVim
 
-DevC++
-CodeBlocks
-MingW
-Git
-UnixUtils
-Console2
-ConEmu
+DevC++	:	CodeBlocks	:	MingW
 
-Java
-Python
-Php
-Ruby
-Node
+Git 	:  Mercurial	:	Subversion
 
-MySql
-PostgreSQL
-sQlite
-MondoDB
-CouchDB
+UnixUtils	:		Console2	:	ConEmu
 
-Laravel 
-CakePhp
-CodeIgniter
-Symfony
+C/C++	:	Java	:	Python	:	Php	:	Ruby		:	Node(JavaScript)	:	VisualBasic.Net
 
-Drupal
-Wordpress
-Joomla
-OsCommerce
-ZenCart
+MySql	:	PostgreSQL	:	sQlite	:	MondoDB	:	CouchDB
+
+Twitter Bootstrap	:	Zurb Foundation
+
+Rails	:	Express		:	Django	:	Sinatra
+
+HTML5 :	CSS3 : JS	:	MarkDown	
+XML	: JSON
+
+GitHub Jekyll	:	Laravel	:	CakePhp	:	CodeIgniter	:	Symfony
+
+Wordpress	:	Drupal 	:	Joomla	:	OsCommerce	:	ZenCart
