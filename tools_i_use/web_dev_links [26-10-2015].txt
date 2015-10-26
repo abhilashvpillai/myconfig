@@ -1,5 +1,13 @@
+http://www.sitepoint.com/vital-guide-interviewing-web-developers/
+http://www.sitepoint.com/building-lightning-fast-extensible-websites-with-perch-cms/
+http://www.sitepoint.com/https-basics/
+http://www.sitepoint.com/http2-the-pros-the-cons-and-what-you-need-to-know/
+http://www.sitepoint.com/how-to-use-modernizr-responsibly
+
+
 http://silas.com.ng/
 http://silas.com.ng/using-lighttpd-with-xampp-on-windows/
+
 
 http://www.guidingtech.com/5493/portable-apps-virtualization-cameyo/
 http://www.intowindows.com/how-to-create-portable-version-of-any-software-in-windows/
@@ -26,9 +34,3 @@ LUA
 	http://stackoverflow.com/questions/194520/creating-standalone-lua-executables
 	http://www.lua.org/start.html
 	https://github.com/rjpcomputing/luaforwindows
-	
-CSS
-
-HTML
-
-JAVASCRIPT
