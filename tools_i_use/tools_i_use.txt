@@ -1,26 +1,29 @@
 Sumatra PDF
 Snap Timer
 Spider Player
+
 GIMP
 Paint.Net
 IrfanView
+
 7Zip
 
 CintaNotes
+ResophNotes
 Notepad++
+gVim
 SublimeText
 Atom
 Brackets
 
 
 DevC++
+CodeBlocks
 MingW
 Git
-gVim
 UnixUtils
 Console2
 ConEmu
-
 
 Java
 Python
@@ -31,3 +34,5 @@ Node
 MySql
 PostgreSQL
 sQlite
+MondoDB
+CouchDB
