@@ -3,6 +3,8 @@ http://www.sitepoint.com/building-lightning-fast-extensible-websites-with-perch-
 http://www.sitepoint.com/https-basics/
 http://www.sitepoint.com/http2-the-pros-the-cons-and-what-you-need-to-know/
 http://www.sitepoint.com/how-to-use-modernizr-responsibly
+http://www.sitepoint.com/4-expert-tips-google-fonts/
+http://www.sitepoint.com/managing-cronjobs-with-laravel/
 
 
 http://silas.com.ng/
