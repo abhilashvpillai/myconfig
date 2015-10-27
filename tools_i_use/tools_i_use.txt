@@ -1,6 +1,8 @@
 Sumatra PDF
 Snap Timer
 Spider Player
+AutoHotKey
+AutoIt
 
 Photoshop	:	Illustrator	:	Fireworks	:	InkScape	:	GIMP		:	Paint.Net	:	IrfanView
 
