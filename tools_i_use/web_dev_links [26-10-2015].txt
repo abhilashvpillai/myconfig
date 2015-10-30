@@ -6,6 +6,8 @@ http://www.sitepoint.com/how-to-use-modernizr-responsibly
 http://www.sitepoint.com/4-expert-tips-google-fonts/
 http://www.sitepoint.com/managing-cronjobs-with-laravel/
 
+http://birdchan.com/home/2013/07/21/a-list-of-programming-screencast-series/
+
 http://www.bloomberg.com/news/articles/2015-10-27/look-who-s-meeting-in-tahrir-square-conference-room-names-reach-for-freedom
 http://www.thedailybeast.com/articles/2015/10/27/running-the-gauntlet-the-internet-s-most-disgusting-challenge.html?via=newsletter&source=DDMorning
 
