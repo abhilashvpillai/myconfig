@@ -1,3 +1,8 @@
+https://www.ruby-lang.org/en/documentation/quickstart/
+http://rubyonrails.org
+http://rubyinstaller.org
+http://railsinstaller.org/
+
 http://www.sitepoint.com/vital-guide-interviewing-web-developers/
 http://www.sitepoint.com/building-lightning-fast-extensible-websites-with-perch-cms/
 http://www.sitepoint.com/https-basics/
