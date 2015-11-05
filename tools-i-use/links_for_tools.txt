@@ -2,10 +2,27 @@
 LINKS FOR DEV TOOLS
 ***************************************************************************************************
 
+WORDPRESS
+http://www.ulancer.com/2015/02/7-best-wordpress-e-commerce-plugins/
+http://www.ulancer.com/2012/03/top-20-useful-plugins-for-wordpress-multi-site-networks/
+http://www.ulancer.com/2011/05/10-incredible-wordpress-contact-form-plugins/
+
+
+JS-JQUERY
+http://www.ulancer.com/2010/05/useful-jquery-form-validation-techniques-and-tutorials/
+
 CSV
 http://listoffreeware.com/list-of-best-free-csv-editor-software-for-windows/
 
 SPREADSHEET
 http://www.ulancer.com/2011/03/some-spreadsheet-programs-that-can-help-you-to-work-with-huge-lists-and-calculations/
 
+WEB ARCHIVER
+http://listoffreeware.com/best-free-website-downloader-software-for-windows/
+
+IMAGE EDITING
+http://www.ulancer.com/2011/03/5-best-free-photo-editing-software-for-freelancers/
+
+aviary.com
+http://www.ulancer.com/2011/03/a-suite-of-free-aviary-tools-for-freelancers/
 
