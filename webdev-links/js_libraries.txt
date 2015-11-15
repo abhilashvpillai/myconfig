@@ -1,0 +1,3 @@
+http://coffeescript.org/
+http://underscorejs.org/
+http://backbonejs.org/

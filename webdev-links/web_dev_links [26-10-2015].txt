@@ -34,6 +34,13 @@ http://ask.metafilter.com/23032/How-do-I-assign-a-hotkey-to-a-Firefox-bookmark
 
 https://pinboard.in/howto/
 
+https://www.000webhost.com/free-php-hosting
+https://lostechies.com/derickbailey/2011/09/15/zombies-run-managing-page-transitions-in-backbone-apps/
+http://computers.tutsplus.com/series/presentation-fundamentals--cms-512
+http://computers.tutsplus.com/series/spreadsheets-for-finance--cms-587
+http://readwrite.com/2012/03/16/what-sendhub-learned-building
+
+
 LUA
 	http://luaforge.net/projects/luaforwindows/
 	http://lua-users.org/wiki/BuildingLuaInWindowsForNewbies
