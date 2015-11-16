@@ -3,6 +3,7 @@ Snap Timer
 Spider Player
 AutoHotKey
 AutoIt
+XYplorer
 
 Photoshop	:	Illustrator	:	Fireworks	:	InkScape	:	GIMP		:	Paint.Net	:	IrfanView
 
