@@ -4,6 +4,8 @@ Spider Player
 AutoHotKey
 AutoIt
 XYplorer
+CubicExplorer
+
 
 Photoshop	:	Illustrator	:	Fireworks	:	InkScape	:	GIMP		:	Paint.Net	:	IrfanView
 
