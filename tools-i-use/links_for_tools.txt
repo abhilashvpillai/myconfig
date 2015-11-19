@@ -35,3 +35,8 @@ http://listoffreeware.com/best-free-slideshow-maker-software-windows/
 http://listoffreeware.com/list-of-best-free-vpn-software-for-windows/
 http://listoffreeware.com/list-of-best-free-online-html-editor/
 http://sourceforge.net/projects/smplayer/?source=frontpage&position=5	:	SMPlayer
+http://sourceforge.net/projects/openofficeorg.mirror/?source=directory-featured		:	Apache Open Office
+http://sourceforge.net/projects/filezilla/?source=directory 	:	FileZilla
+http://sourceforge.net/projects/xampp/?source=recommended 	:	XAMPP
+http://sourceforge.net/projects/vlc/?source=recommended 	:	VLC Media Player
+http://sourceforge.net/projects/sevenzip/?source=recommended 	:	7Zip
