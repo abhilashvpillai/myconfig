@@ -7,9 +7,17 @@ http://www.ulancer.com/2015/02/7-best-wordpress-e-commerce-plugins/
 http://www.ulancer.com/2012/03/top-20-useful-plugins-for-wordpress-multi-site-networks/
 http://www.ulancer.com/2011/05/10-incredible-wordpress-contact-form-plugins/
 
+ONLINE COURSES
+http://www.freecodecamp.com/
+http://codepen.io/
 
 JS-JQUERY
 http://www.ulancer.com/2010/05/useful-jquery-form-validation-techniques-and-tutorials/
+
+SCRIPTS
+https://www.hotscripts.com/blog/5-powerful-php-code-generators/
+https://www.owasp.org/index.php/Top_10_2010-A4-Insecure_Direct_Object_References
+http://xataface.com/
 
 CSV
 http://listoffreeware.com/list-of-best-free-csv-editor-software-for-windows/
